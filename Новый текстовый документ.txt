@@ -10,3 +10,5 @@ commit 2 from master
 
 переключился в другую ветку 
 commit2s
+
+commit4 из ветки  first
