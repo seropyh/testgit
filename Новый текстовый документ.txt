@@ -1,12 +1,7 @@
 commit 1
 
-
-
-
-
-
-
 commit 2 from master
+
 
 переключился в другую ветку 
 commit2s
