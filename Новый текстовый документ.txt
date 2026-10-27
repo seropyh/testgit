@@ -2,3 +2,5 @@ commit 1
 
 переключился в другую ветку 
 commit2s
+
+commit4 из ветки  first
